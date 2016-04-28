@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    by highlighting variations in the strings
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Keep track of modifications as well as recalling actual solutions adopted when, for example, reporting on the features of the code 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros are that it avoids cluttering the repository with versions due to minor changes, e.g. corrections in commenting lines; cons are that one needs discipline in committing changes systematically when required. In addition automated version control tools ar not designed for program development.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I assume Git is designed for the professional / skilled programmers that require working on several prohects / strands of projects at the same time, while Docs is meant for occasional users 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    To spot modifications between versions, their timing and thei author. Implicitly to check the progress of my work and the amount of time spent in each session. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I mostly made versioned copies of my work and so I tended to be quite free with changes already, but it was unsystematic and i had sometimes problem to identify mistakes i made in changing the files. Git should help there.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    R package development.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because git makes possible to compare variations that affects multiple files (linked files)

@@ -1,0 +1,60 @@
+﻿What happens when you initialize a repository? 
+
+a .git folder with change history is created
+
+Why do you need to do it?
+
+
+to track versions over time
+
+
+How is the staging area different from the working directory and the repository?
+
+
+they are hidden files
+
+What value do you think it offers?
+
+tracking capability and uncluttered view of actual working files
+
+
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+dk
+
+
+
+What are some situations when branches would be helpful in keeping your history
+ organized? 
+
+to explore alternative variants and/or enable team work / parallel work streams
+
+How would branches help?
+
+
+
+letting each variant have its own history traced
+
+How do the diagrams help you visualize the branch structure?
+
+because they help manage mutliple work streams by keeping them in veiew as a part of coherent whole
+
+
+
+What is the result of merging two branches together?
+
+common parts are preserved, different parts are merged together
+
+Why do we represent it in
+ the diagram the way we do?
+
+
+
+dk
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+lack of control on the process vs guarantee of consistency
