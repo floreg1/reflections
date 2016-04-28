@@ -31,7 +31,7 @@ to explore alternative variants and/or enable team work / parallel work streams.
 
 How do the diagrams help you visualize the branch structure?
 
-because they help manage mutliple work streams by keeping them in veiew as a part of coherent whole
+because they help manage multiple work streams by keeping them in view as a part of coherent whole. Further, they help conceptualize the pattern of developments around the master branch.
 
 
 
