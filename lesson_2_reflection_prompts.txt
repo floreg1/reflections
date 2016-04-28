@@ -18,7 +18,7 @@ The staging are is a buffer between the working directory and the repository. Th
 How can you use the staging area to make sure you have one commit per logical 
 change?
 
-dk
+Using diff it is possible to review yet-to-be committed changes and be selective which ones are commited and whch ones arent not  to.
 
 
 
