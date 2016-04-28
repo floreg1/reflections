@@ -9,13 +9,9 @@ to track versions over time
 
 
 How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
 
-
-they are hidden files
-
-What value do you think it offers?
-
-tracking capability and uncluttered view of actual working files
+The staging are is a buffer between the working directory and the repository. The staging area makes possible to be sleective about the files in the  working directory to be commited to the repository.
 
 
 
