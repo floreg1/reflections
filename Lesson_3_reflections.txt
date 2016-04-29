@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It is possible to work offline on the local copy while still being able to merge subsequently any progress into the remote or, as needed, to create a branch locally that can later merged back also in the remote, locaaly, or cloned into the remote as required.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
