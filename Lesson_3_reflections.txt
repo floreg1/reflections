@@ -10,7 +10,7 @@ For safety, to have a backup for my work. To enable remore access to my work fro
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because modifications on GitHub may be carried out by co-workers or other operators and I can be selective on what changes should be imported in my local repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
