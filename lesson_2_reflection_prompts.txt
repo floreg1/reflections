@@ -37,14 +37,14 @@ because they help manage multiple work streams by keeping them in view as a part
 
 What is the result of merging two branches together?
 
-common parts are preserved, different parts are merged together
+common parts are preserved up the node in which the two branch are preserved, different parts are merged together. But it is necessary to review the commits to see which changes are comparitble with each other. Usually this is judged by comparing the earliest common version (split node) anch checking the common and different features between the tip of the branches and the split node.
 
 Why do we represent it in
  the diagram the way we do?
 
 
 
-dk
+To preseve the information implici in the split inot parallel lines of development of the files.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
