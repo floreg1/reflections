@@ -44,9 +44,10 @@ Why do we represent it in
 
 
 
-To preseve the information implici in the split inot parallel lines of development of the files.
+To preseve the information implicit in the split in the parallel lines of development of the files.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
 
-lack of control on the process vs guarantee of consistency
+
+Automatic merging implies lack of control on the process and the possibility of losing or imposing changes unwittingly, whereas manually merging the branches impies that we need to work on guaranteing on the consistency of the merges, involving different developers as necessary.
