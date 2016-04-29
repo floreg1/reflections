@@ -2,3 +2,7 @@
 # Author: Giulio Flore
 
 Created as per course instructions
+
+When would you want to create a remote repository rather than keeping all your work local?
+
+For safety, to have a backup for my work. To enable remore access to my work from home or other locations as necessary. To enable co-workers and other programmers to contribute to my work.
