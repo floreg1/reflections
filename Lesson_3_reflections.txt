@@ -30,4 +30,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    To enable separate development at local level as well as incorporate contributions from other developers so that they do not necessarily impinge on the master version. This is also a safety measure.
